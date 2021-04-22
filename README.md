@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Front-End Developer at Luko, studying at ECV Digital and based in Bordeaux.
 
-## Some of my favorite languages:
+## 💚 Some of my favorite languages:
 
 <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="48px" height="48px" /> <img src="https://nuxtjs.org/logos/nuxt.svg" width="48px" height="48px" />  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48px" height="48px" />
 
