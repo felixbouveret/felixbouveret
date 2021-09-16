@@ -19,7 +19,7 @@ I'm a Front-End Developer at Luko, studying at ECV Digital and based in Bordeaux
 
 ## 💚 Some of my favorite languages:
 
-<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="48px" height="48px" /> <img src="https://nuxtjs.org/logos/nuxt.svg" width="48px" height="48px" />  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48px" height="48px" />
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="48px" height="48px" /> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" width="48px" height="48px" />  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="48px" height="48px" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48px" height="48px" />
 
 ## &#x1f4c8; My GitHub Stats
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixbouveret)](https://github.com/anuraghazra/github-readme-stats) 
