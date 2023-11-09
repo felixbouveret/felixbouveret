@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Front-End Developer at Luko, based in Bordeaux.
+I'm a Front-End nomad Developer at Luko, based in France.
 
 ## 💚 Some of my favorite languages:
 
